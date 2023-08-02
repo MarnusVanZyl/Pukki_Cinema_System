@@ -1,0 +1,3 @@
+ensure all forms are similarly designed
+fix errors and crashes in reports and in genres
+add help images to all forms
